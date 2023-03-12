@@ -1,0 +1,1 @@
+Un IDE se puede definir como un programa informatico que tiene el objetivo de asistir al programador en la tarea de diseñar y codificar un software mediante la inclusion de multiples herramientas destinadas para dicha tarea.
