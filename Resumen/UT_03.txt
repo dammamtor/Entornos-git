@@ -1,0 +1,1 @@
+Una de las ultimas fases del ciclo de vida antes de entregar un programa para su explotacion, es la fase de pruebas.
